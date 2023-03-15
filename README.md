@@ -51,10 +51,3 @@ With these graphs you can challenge the current routing and discuss about optimi
 </p>
                                                                                                
 
-## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
-
-## About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
